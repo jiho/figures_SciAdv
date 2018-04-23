@@ -1,0 +1,22 @@
+"0","sol <- unique(d$System)
+n_sol <- length(sol)
+for (i in 1:n_sol) {
+fig_name <- paste(""system_ocean_sol_bar"", as.character(i), sep = ""_"")
+fig_name <- ggplot(data = filter(d, System==sol[i],
+                            aes(x=Solution, y=Value, group=System, fill=Process)) +
+  coord_polar() +
+  geom_bar(stat = ""identity"", position = position_dodge(width = 1)) +
+  scale_fill_viridis(alpha = 0.8, discrete = TRUE, option = ""C"") +
+  labs(title = ""Systems and ocean-based solutions (with confidence levels)"", x="""", y="""") +
+  geom_text(aes(y = Value + 0.3, label = Confidence), position = position_dodge(width = 1)) +
+  theme(legend.position = ""right"",
+        axis.text.x = element_text(hjust=1),
+        axis.text.y = element_blank(),
+        axis.ticks = element_blank()
+        )
+}
+"
+"2","Error: unexpected '}' in:
+""        )
+}""
+"

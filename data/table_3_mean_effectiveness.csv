@@ -1,0 +1,121 @@
+Warming,Acidification,Sea level rise,Other drivers,Cobenefits,Lack_unintended,Effectiveness,Disbenefits,co_dis,Solution,scale,System
+5,5,5,2,2,4,5,2,1,Renew,global,Seagrass habitats
+2,4,5,NA,NA,NA,3.66666666666667,NA,NA,Vg,global,Seagrass habitats
+2,4,5,1,1,2,3.66666666666667,4,0.25,Fert,global,Seagrass habitats
+5,5,5,NA,NA,NA,5,NA,NA,Alkg,global,Seagrass habitats
+4,5,5,2,3,3,4.66666666666667,3,1,Hyb,global,Seagrass habitats
+4,0,5,1,1,3,3,3,0.3333333333333333,Cl,global,Seagrass habitats
+5,4,5,1,1,3,4.66666666666667,3,0.3333333333333333,Alb,global,Seagrass habitats
+2,5,5,1,1,2,4,4,0.25,Alkl,local,Seagrass habitats
+2,5,5,5,5,5,4,1,5,Vl,local,Seagrass habitats
+2,5,5,4,5,5,4,1,5,Poll,local,Seagrass habitats
+2,4,5,4,4,4,3.66666666666667,2,2,Hyd,local,Seagrass habitats
+2,4,5,4,4,5,3.66666666666667,1,4,Over,local,Seagrass habitats
+2,5,5,4,5,5,4,1,5,Prot,local,Seagrass habitats
+2,4,5,1,1,5,3.66666666666667,1,1,Evol,local,Seagrass habitats
+0,0,5,4,5,4,1.66666666666667,2,2.5,RR,local,Seagrass habitats
+5,4,5,2,2,3,4.66666666666667,3,0.6666666666666666,Renew,global,Coral reefs
+1,2,3,NA,NA,NA,2,NA,NA,Vg,global,Coral reefs
+1,2,3,1,1,1,2,5,0.2,Fert,global,Coral reefs
+5,5,5,NA,NA,NA,5,NA,NA,Alkg,global,Coral reefs
+4,4,4,1,1,3,4,3,0.3333333333333333,Hyb,global,Coral reefs
+4,0,4,3,3,1,2.66666666666667,5,0.6,Cl,global,Coral reefs
+5,2,5,1,3,1,4,5,0.6,Alb,global,Coral reefs
+1,5,3,2,2,1,3,5,0.4,Alkl,local,Coral reefs
+1,4,5,4,5,5,3.33333333333333,1,5,Vl,local,Coral reefs
+1,4,3,3,4,5,2.66666666666667,1,4,Poll,local,Coral reefs
+1,2,4,1,3,4,2.33333333333333,2,1.5,Hyd,local,Coral reefs
+1,2,4,2,3,4,2.33333333333333,2,1.5,Over,local,Coral reefs
+1,4,4,3,5,5,3,1,5,Prot,local,Coral reefs
+1,2,3,4,4,2,2,4,1,Evol,local,Coral reefs
+0,0,5,4,5,2,1.66666666666667,4,1.25,RR,local,Coral reefs
+5,5,4,1,1,3,4.66666666666667,3,0.3333333333333333,Renew,global,Mangroves and saltmarshes
+4,5,2,NA,NA,NA,3.66666666666667,NA,NA,Vg,global,Mangroves and saltmarshes
+4,5,2,1,1,1,3.66666666666667,5,0.2,Fert,global,Mangroves and saltmarshes
+5,5,4,NA,NA,NA,4.66666666666667,NA,NA,Alkg,global,Mangroves and saltmarshes
+5,5,3,2,2,3,4.33333333333333,3,0.6666666666666666,Hyb,global,Mangroves and saltmarshes
+5,0,4,1,1,2,3,4,0.25,Cl,global,Mangroves and saltmarshes
+5,5,4,1,1,2,4.66666666666667,4,0.25,Alb,global,Mangroves and saltmarshes
+4,5,2,1,1,1,3.66666666666667,5,0.2,Alkl,local,Mangroves and saltmarshes
+4,5,4,5,5,5,4.33333333333333,1,5,Vl,local,Mangroves and saltmarshes
+4,5,2,2,2,5,3.66666666666667,1,2,Poll,local,Mangroves and saltmarshes
+4,5,4,5,5,5,4.33333333333333,1,5,Hyd,local,Mangroves and saltmarshes
+4,5,3,5,5,5,4,1,5,Over,local,Mangroves and saltmarshes
+4,5,3,5,5,5,4,1,5,Prot,local,Mangroves and saltmarshes
+4,5,2,2,1,2,3.66666666666667,4,0.25,Evol,local,Mangroves and saltmarshes
+0,0,4,4,5,3,1.33333333333333,3,1.6666666666666667,RR,local,Mangroves and saltmarshes
+5,5,5,1,2,3,5,3,0.6666666666666666,Renew,global,Arctic biota
+1,3,4,1,1,3,2.66666666666667,3,0.3333333333333333,Vg,global,Arctic biota
+1,3,4,1,2,2,2.66666666666667,4,0.5,Fert,global,Arctic biota
+5,5,5,1,2,3,5,3,0.6666666666666666,Alkg,global,Arctic biota
+4,4,4,1,1,2,4,4,0.25,Hyb,global,Arctic biota
+4,0,5,1,3,3,3,3,1,Cl,global,Arctic biota
+5,3,5,1,3,3,4.33333333333333,3,1,Alb,global,Arctic biota
+1,5,4,2,2,2,3.33333333333333,4,0.5,Alkl,local,Arctic biota
+1,4,5,2,2,3,3.33333333333333,3,0.6666666666666666,Vl,local,Arctic biota
+1,1,4,2,2,5,2,1,2,Poll,local,Arctic biota
+2,2,5,1,1,1,3,5,0.2,Hyd,local,Arctic biota
+1,3,4,3,5,5,2.66666666666667,1,5,Over,local,Arctic biota
+1,4,4,3,5,5,3,1,5,Prot,local,Arctic biota
+1,3,2,1,1,3,2,3,0.3333333333333333,Evol,local,Arctic biota
+0,0,5,2,3,3,1.66666666666667,3,1,RR,local,Arctic biota
+5,5,5,1,2,3,5,3,0.6666666666666666,Renew,global,Fin fisheries
+2,3,5,NA,NA,NA,3.33333333333333,NA,NA,Vg,global,Fin fisheries
+2,3,5,1,2,3,3.33333333333333,3,0.6666666666666666,Fert,global,Fin fisheries
+5,5,5,NA,NA,NA,5,NA,NA,Alkg,global,Fin fisheries
+4,4,5,1,1,2,4.33333333333333,4,0.25,Hyb,global,Fin fisheries
+4,0,5,0,0,2,3,4,0,Cl,global,Fin fisheries
+5,3,5,1,1,2,4.33333333333333,4,0.25,Alb,global,Fin fisheries
+2,5,5,1,1,3,4,3,0.3333333333333333,Alkl,local,Fin fisheries
+2,4,5,4,5,5,3.66666666666667,1,5,Vl,local,Fin fisheries
+2,5,5,4,5,5,4,1,5,Poll,local,Fin fisheries
+2,3,5,2,1,4,3.33333333333333,2,0.5,Hyd,local,Fin fisheries
+2,3,5,4,5,5,3.33333333333333,1,5,Over,local,Fin fisheries
+2,4,5,4,5,5,3.66666666666667,1,5,Prot,local,Fin fisheries
+2,3,5,2,1,2,3.33333333333333,4,0.25,Evol,local,Fin fisheries
+0,0,5,3,4,4,1.66666666666667,2,2,RR,local,Fin fisheries
+5,5,5,1,2,3,5,3,0.6666666666666666,Renew,global,Fish aquaculture
+2,4,4,NA,NA,NA,3.33333333333333,NA,NA,Vg,global,Fish aquaculture
+2,4,4,1,1,2,3.33333333333333,4,0.25,Fert,global,Fish aquaculture
+5,5,5,NA,NA,NA,5,NA,NA,Alkg,global,Fish aquaculture
+4,5,4,1,1,4,4.33333333333333,2,0.5,Hyb,global,Fish aquaculture
+4,0,5,1,1,4,3,2,0.5,Cl,global,Fish aquaculture
+5,4,5,1,1,4,4.66666666666667,2,0.5,Alb,global,Fish aquaculture
+2,5,4,1,1,2,3.66666666666667,4,0.25,Alkl,local,Fish aquaculture
+2,5,5,3,4,4,4,2,2,Vl,local,Fish aquaculture
+2,5,4,4,5,5,3.66666666666667,1,5,Poll,local,Fish aquaculture
+2,4,5,3,3,3,3.66666666666667,3,1,Hyd,local,Fish aquaculture
+2,4,4,3,5,5,3.33333333333333,1,5,Over,local,Fish aquaculture
+2,5,4,2,4,4,3.66666666666667,2,2,Prot,local,Fish aquaculture
+2,4,4,4,1,2,3.33333333333333,4,0.25,Evol,local,Fish aquaculture
+0,0,5,5,1,3,1.66666666666667,3,0.3333333333333333,RR,local,Fish aquaculture
+5,5,4,1,1,3,4.66666666666667,3,0.3333333333333333,Renew,global,Coastal protection
+2,3,1,NA,NA,NA,2,NA,NA,Vg,global,Coastal protection
+2,3,1,1,1,1,2,5,0.2,Fert,global,Coastal protection
+5,5,4,NA,NA,NA,4.66666666666667,NA,NA,Alkg,global,Coastal protection
+4,4,2,2,2,3,3.33333333333333,3,0.6666666666666666,Hyb,global,Coastal protection
+4,0,3,1,1,2,2.33333333333333,4,0.25,Cl,global,Coastal protection
+5,3,4,1,1,2,4,4,0.25,Alb,global,Coastal protection
+2,5,1,2,2,2,2.66666666666667,4,0.5,Alkl,local,Coastal protection
+2,4,4,5,5,4,3.33333333333333,2,2.5,Vl,local,Coastal protection
+2,5,1,5,5,5,2.66666666666667,1,5,Poll,local,Coastal protection
+2,3,3,5,5,5,2.66666666666667,1,5,Hyd,local,Coastal protection
+2,3,2,5,5,5,2.33333333333333,1,5,Over,local,Coastal protection
+2,4,2,5,5,5,2.66666666666667,1,5,Prot,local,Coastal protection
+2,3,1,2,2,2,2,4,0.5,Evol,local,Coastal protection
+0,0,4,4,5,3,1.33333333333333,3,1.6666666666666667,RR,local,Coastal protection
+5,4,5,1,3,3,4.66666666666667,3,1,Renew,global,Bivalves fisheries and aquaculture
+2,2,5,NA,NA,NA,3,NA,NA,Vg,global,Bivalves fisheries and aquaculture
+2,2,5,4,5,3,3,3,1.6666666666666667,Fert,global,Bivalves fisheries and aquaculture
+5,5,5,NA,NA,NA,5,NA,NA,Alkg,global,Bivalves fisheries and aquaculture
+4,4,5,2,2,4,4.33333333333333,2,1,Hyb,global,Bivalves fisheries and aquaculture
+4,0,5,1,1,4,3,2,0.5,Cl,global,Bivalves fisheries and aquaculture
+5,2,5,1,1,4,4,2,0.5,Alb,global,Bivalves fisheries and aquaculture
+2,5,5,5,4,3,4,3,1.3333333333333333,Alkl,local,Bivalves fisheries and aquaculture
+2,4,5,4,4,5,3.66666666666667,1,4,Vl,local,Bivalves fisheries and aquaculture
+2,4,5,4,5,5,3.66666666666667,1,5,Poll,local,Bivalves fisheries and aquaculture
+2,2,5,3,2,4,3,2,1,Hyd,local,Bivalves fisheries and aquaculture
+2,2,5,4,5,5,3,1,5,Over,local,Bivalves fisheries and aquaculture
+2,4,5,4,5,4,3.66666666666667,2,2.5,Prot,local,Bivalves fisheries and aquaculture
+2,2,5,4,3,2,3,4,0.75,Evol,local,Bivalves fisheries and aquaculture
+0,0,5,4,3,3,1.66666666666667,3,1,RR,local,Bivalves fisheries and aquaculture

@@ -1,0 +1,12 @@
+"0","d <- dat_sol %>%
+  dplyr::mutate(Value = as.numeric(Value)) %>%
+  dplyr::filter(Base == ""Ocean-based"") %>%
+  dplyr::filter(Process %in% c(""Effectiveness to moderate warming"",
+                              ""Effectiveness to moderate acidification (global)"",
+                              ""Effectiveness to moderate sea level rise"",
+                              ""Effectiveness to increase carbon uptake""),
+                !is.na(Value)
+                )
+"
+"2","Error in eval(expr, envir, enclos) : object 'dat_sol' not found
+"

@@ -1,0 +1,51 @@
+---
+title: "Displays Ocean Solutions paper"
+author: "Jean-Pierre Gattuso"
+date: '`r format(Sys.Date(), "%d %B %Y")`'
+output:
+  html_document:
+    code_folding: hide
+    fig_caption: yes
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r prep, echo=FALSE, message= FALSE}
+rm(list = ls())
+library(tidyverse)
+library(viridis)
+Sys.setlocale("LC_ALL", "en_US.UTF-8")
+Sys.setenv(TZ='UTC') # on utilise UTC
+```
+
+```{r Figure 1, echo=FALSE, message= FALSE}
+dat <- read_tsv(file = "T1.tsv")
+d <- dat %>%
+  dplyr::mutate(Effectiveness = as.numeric(Effectiveness)) %>%
+  dplyr::filter(Process %in% c("Effectiveness to moderate warming",
+                              "Effectiveness to moderate acidification (global)",
+                              "Effectiveness to moderate sea level rise",
+                              "Effectiveness to increase carbon uptake")
+                )
+# rename processes
+d[d$Process == "Effectiveness to moderate warming",]$Process <- "Moderate warming"
+d[d$Process == "Effectiveness to moderate acidification (global)", ]$Process <- "Moderate acidification"
+d[d$Process == "Effectiveness to moderate sea level rise", ]$Process <- "Moderate sea level rise"
+d[d$Process == "Effectiveness to increase carbon uptake", ]$Process <- "Increase carbon uptake"
+
+"Manipulation of biological and ecological adaptation"
+fig_effectiveness <- ggplot(data=d,
+                            aes(x=Process, y=Effectiveness, fill=Solution)) +
+  coord_flip() +
+  geom_bar(stat = "identity", position = "dodge") +
+  scale_fill_viridis(alpha = 0.8, discrete = TRUE, option = "C") +
+  labs(title = "", x="", y="") +
+  facet_grid(. ~ Group) +
+  theme(legend.position = "top")
+  
+fig_effectiveness
+ggsave(filename = "fig_effectiveness.png", plot = fig_effectiveness)
+```
+

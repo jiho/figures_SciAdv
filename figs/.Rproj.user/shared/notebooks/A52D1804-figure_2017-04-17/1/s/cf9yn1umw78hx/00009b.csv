@@ -1,0 +1,7 @@
+"0","#test <- filter(dat_sol, Process == ""Controversiality"")"
+"0","  # ggplot(d) + "
+"0","  #     geom_point(aes(x=Process, y=Value, group=Solution, color=Solution, size = Confidence),"
+"0","  #                position = position_dodge(width = 0.5)) +"
+"0","  #   geom_polygon(dat_sol=filter(d, Process==""Controversiality""), aes(x=Process, "
+"0","  #                    y=Value, group=Solution)) +"
+"0","  #     coord_polar()"
